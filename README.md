@@ -1,0 +1,2 @@
+# .github
+LiveSafe Organization Repository
